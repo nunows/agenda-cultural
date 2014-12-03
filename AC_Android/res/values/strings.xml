@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">AC_Android</string>
+    <string name="ver_mapa">Ver no mapa</string>
+    <string name="gps_off">Por favor ligue o GPS</string>
+    <string name="obter_loc">A obter a sua localização...</string>
+    <string name="distancia">Distancia:</string>
+
+</resources>
